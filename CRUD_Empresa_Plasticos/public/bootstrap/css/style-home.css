@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(249, 176, 239);
+}
+.card-header{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f47ee2;
+}
+.card{
+    border: 2px solid #a9228f;
+    border-radius: 8px;
+}

@@ -1,0 +1,14 @@
+h4{
+    background-color: #fcd2f8; 
+    padding: 5px;
+    margin: 10px 0; 
+    text-align: center;
+}
+.btn-outline-custom {
+    background-color: #e84dd0;
+    color: #fff;
+}
+#agregar {
+    position: absolute;
+    left: 45%;
+}
